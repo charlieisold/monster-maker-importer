@@ -1,0 +1,12 @@
+{
+    "name": "monster-maker-importer",
+    "title": "Monster Maker Importer",
+    "description": "A module to automatically import creations from Giffyglyph's Monster Maker",
+    "author": "charlieisold",
+    "version": "0.0.1",
+    "minimumCoreVersion": "0.5.0",
+    "system": "dnd5e",
+    "scripts": [
+        "scripts/hello.js"
+    ]
+}
