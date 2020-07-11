@@ -8,5 +8,6 @@
     "system": "dnd5e",
     "scripts": [
         "scripts/hello.js"
-    ]
+    ],
+    "manifest": "https://raw.githubusercontent.com/charlieisold/monster-maker-importer/master/module.json"
 }
