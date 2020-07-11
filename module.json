@@ -3,7 +3,7 @@
     "title": "Monster Maker Importer",
     "description": "A module to automatically import creations from Giffyglyph's Monster Maker",
     "author": "charlieisold",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "minimumCoreVersion": "0.5.0",
     "system": "dnd5e",
     "scripts": [
