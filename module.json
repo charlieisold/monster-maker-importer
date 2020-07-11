@@ -9,5 +9,6 @@
     "scripts": [
         "scripts/hello.js"
     ],
+    "url": "https://github.com/charlieisold/monster-maker-importer",
     "manifest": "https://raw.githubusercontent.com/charlieisold/monster-maker-importer/master/module.json"
 }
