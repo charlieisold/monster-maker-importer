@@ -36,7 +36,7 @@ Hooks.on("renderSidebarTab", async (app, html) => {
                                 img: "icons/mystery-man.png",
                                 // folder: folder.data_id,
                                 sort: 12000,
-                                data: {},
+                                data:{},
                                 tokens: {},
                                 items: [],
                                 flags: {}
